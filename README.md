@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman62&label=Profile%20views&color=0e75b6&style=flat" alt="noman62" /> </p>
 
-- 🌱 I’m currently learning **Angular, Data Structure**
+- 🌱 I’m currently learning **Django, Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://noman-portfolio.vercel.app/](https://noman-portfolio.vercel.app/)
 
